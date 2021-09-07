@@ -4,7 +4,6 @@ Buenos dias
 
 Soy sergio arenas
 
-<<<<<<< HEAD
 
 
 
@@ -13,8 +12,3 @@ Soy sergio arenas
 
 
 aqui yo tambien quiero aprender mi parce, por eso estoy haciendo todo eso 
-=======
-tengo 20 años de edad yuju
-
-este es una prueba de que yo quiero aprender
->>>>>>> años
